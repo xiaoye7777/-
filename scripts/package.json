@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "colorjs": "^0.1.9"
+  }
+}
